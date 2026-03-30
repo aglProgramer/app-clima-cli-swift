@@ -1,0 +1,310 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.AppClima-x86_64-unknown-windows-msvc-debug.module" : {
+      "executable" : "C:\\Users\\ALEJANDRO\\AppData\\Local\\Programs\\Swift\\Toolchains\\6.2.4+Asserts\\usr\\bin\\swiftc.exe",
+      "fileList" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\sources",
+      "importPath" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\Models\\Clima.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\Services\\WeatherService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\Utils\\Coordenadas.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\swift-version-1D88D88D6AC4F9FB.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "AppClima",
+      "moduleOutputPath" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\Modules\\AppClima.swiftmodule",
+      "objects" : [
+        "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\Clima.swift.o",
+        "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\WeatherService.swift.o",
+        "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\Coordenadas.swift.o",
+        "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\main.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-unknown-windows-msvc",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\index\\store",
+        "-Onone",
+        "-enable-testing",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "AppClima_main",
+        "-static",
+        "-color-diagnostics",
+        "-swift-version",
+        "6",
+        "-sdk",
+        "C:\\Users\\ALEJANDRO\\AppData\\Local\\Programs\\Swift\\Platforms\\6.2.4\\Windows.platform\\Developer\\SDKs\\Windows.sdk\\",
+        "-libc",
+        "MD",
+        "-I",
+        "C:\\Users\\ALEJANDRO\\AppData\\Local\\Programs\\Swift\\Platforms\\6.2.4\\Windows.platform\\Developer\\Library\\XCTest-6.2.4\\usr\\lib\\swift\\windows",
+        "-I",
+        "C:\\Users\\ALEJANDRO\\AppData\\Local\\Programs\\Swift\\Platforms\\6.2.4\\Windows.platform\\Developer\\Library\\XCTest-6.2.4\\usr\\lib\\swift\\windows\\x86_64",
+        "-L",
+        "C:\\Users\\ALEJANDRO\\AppData\\Local\\Programs\\Swift\\Platforms\\6.2.4\\Windows.platform\\Developer\\Library\\XCTest-6.2.4\\usr\\lib\\swift\\windows\\x86_64",
+        "-I",
+        "C:\\Users\\ALEJANDRO\\AppData\\Local\\Programs\\Swift\\Platforms\\6.2.4\\Windows.platform\\Developer\\Library\\Testing-6.2.4\\usr\\lib\\swift\\windows",
+        "-L",
+        "C:\\Users\\ALEJANDRO\\AppData\\Local\\Programs\\Swift\\Platforms\\6.2.4\\Windows.platform\\Developer\\Library\\Testing-6.2.4\\usr\\lib\\swift\\windows\\x86_64",
+        "-use-ld=lld",
+        "-g",
+        "-use-ld=lld",
+        "-Xcc",
+        "-D_MT",
+        "-Xcc",
+        "-D_DLL",
+        "-Xcc",
+        "-Xclang",
+        "-Xcc",
+        "--dependent-lib=msvcrt",
+        "-Xcc",
+        "-gdwarf",
+        "-package-name",
+        "appclima"
+      ],
+      "outputFileMapPath" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\Clima.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\WeatherService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\Coordenadas.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\Modules\\AppClima.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\Models\\Clima.swift",
+        "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\Services\\WeatherService.swift",
+        "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\Utils\\Coordenadas.swift",
+        "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\main.swift"
+      ],
+      "tempsPath" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "AppClima" : [
+      "C:\\Users\\ALEJANDRO\\AppData\\Local\\Programs\\Swift\\Toolchains\\6.2.4+Asserts\\usr\\bin\\swiftc.exe",
+      "-module-name",
+      "AppClima",
+      "-package-name",
+      "appclima",
+      "-c",
+      "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\Models\\Clima.swift",
+      "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\Services\\WeatherService.swift",
+      "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\Utils\\Coordenadas.swift",
+      "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\main.swift",
+      "-I",
+      "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\Modules",
+      "-target",
+      "x86_64-unknown-windows-msvc",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\index\\store",
+      "-Onone",
+      "-enable-testing",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "AppClima_main",
+      "-static",
+      "-color-diagnostics",
+      "-swift-version",
+      "6",
+      "-sdk",
+      "C:\\Users\\ALEJANDRO\\AppData\\Local\\Programs\\Swift\\Platforms\\6.2.4\\Windows.platform\\Developer\\SDKs\\Windows.sdk\\",
+      "-libc",
+      "MD",
+      "-I",
+      "C:\\Users\\ALEJANDRO\\AppData\\Local\\Programs\\Swift\\Platforms\\6.2.4\\Windows.platform\\Developer\\Library\\XCTest-6.2.4\\usr\\lib\\swift\\windows",
+      "-I",
+      "C:\\Users\\ALEJANDRO\\AppData\\Local\\Programs\\Swift\\Platforms\\6.2.4\\Windows.platform\\Developer\\Library\\XCTest-6.2.4\\usr\\lib\\swift\\windows\\x86_64",
+      "-L",
+      "C:\\Users\\ALEJANDRO\\AppData\\Local\\Programs\\Swift\\Platforms\\6.2.4\\Windows.platform\\Developer\\Library\\XCTest-6.2.4\\usr\\lib\\swift\\windows\\x86_64",
+      "-I",
+      "C:\\Users\\ALEJANDRO\\AppData\\Local\\Programs\\Swift\\Platforms\\6.2.4\\Windows.platform\\Developer\\Library\\Testing-6.2.4\\usr\\lib\\swift\\windows",
+      "-L",
+      "C:\\Users\\ALEJANDRO\\AppData\\Local\\Programs\\Swift\\Platforms\\6.2.4\\Windows.platform\\Developer\\Library\\Testing-6.2.4\\usr\\lib\\swift\\windows\\x86_64",
+      "-use-ld=lld",
+      "-g",
+      "-use-ld=lld",
+      "-Xcc",
+      "-D_MT",
+      "-Xcc",
+      "-D_DLL",
+      "-Xcc",
+      "-Xclang",
+      "-Xcc",
+      "--dependent-lib=msvcrt",
+      "-Xcc",
+      "-gdwarf",
+      "-package-name",
+      "appclima",
+      "-driver-use-frontend-path",
+      "C:\\Users\\ALEJANDRO\\AppData\\Local\\Programs\\Swift\\Toolchains\\6.2.4+Asserts\\usr\\bin\\swiftc.exe"
+    ]
+  },
+  "targetDependencyMap" : {
+    "AppClima" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\Models\\Clima.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\Services\\WeatherService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\Utils\\Coordenadas.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\main.swift"
+        }
+      ],
+      "outputFilePath" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\sources"
+    },
+    "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.product\\Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\AppClima.swiftmodule.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\Clima.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\Coordenadas.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\WeatherService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\main.swift.o"
+        }
+      ],
+      "outputFilePath" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.product\\Objects.LinkFileList"
+    },
+    "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\swift-version-1D88D88D6AC4F9FB.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "C:\\Users\\ALEJANDRO\\AppData\\Local\\Programs\\Swift\\Toolchains\\6.2.4+Asserts\\usr\\bin\\swiftc.exe"
+        }
+      ],
+      "outputFilePath" : "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\swift-version-1D88D88D6AC4F9FB.txt"
+    }
+  }
+}

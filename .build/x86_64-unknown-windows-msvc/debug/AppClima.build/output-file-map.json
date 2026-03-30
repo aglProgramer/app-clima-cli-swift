@@ -1,0 +1,33 @@
+{
+  "": {
+    "swift-dependencies": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\master.swiftdeps"
+  },
+  "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\Models\\Clima.swift": {
+    "dependencies": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\Clima.d",
+    "object": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\Clima.swift.o",
+    "swiftmodule": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\Clima~partial.swiftmodule",
+    "swift-dependencies": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\Clima.swiftdeps",
+    "diagnostics": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\Clima.dia"
+  },
+  "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\Services\\WeatherService.swift": {
+    "dependencies": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\WeatherService.d",
+    "object": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\WeatherService.swift.o",
+    "swiftmodule": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\WeatherService~partial.swiftmodule",
+    "swift-dependencies": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\WeatherService.swiftdeps",
+    "diagnostics": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\WeatherService.dia"
+  },
+  "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\Utils\\Coordenadas.swift": {
+    "dependencies": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\Coordenadas.d",
+    "object": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\Coordenadas.swift.o",
+    "swiftmodule": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\Coordenadas~partial.swiftmodule",
+    "swift-dependencies": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\Coordenadas.swiftdeps",
+    "diagnostics": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\Coordenadas.dia"
+  },
+  "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\Sources\\AppClima\\main.swift": {
+    "dependencies": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\main.d",
+    "object": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\main.swift.o",
+    "swiftmodule": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\main~partial.swiftmodule",
+    "swift-dependencies": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\main.swiftdeps",
+    "diagnostics": "D:\\ROAD TO TRABAJO\\APPS\\AppClima\\.build\\x86_64-unknown-windows-msvc\\debug\\AppClima.build\\main.dia"
+  }
+}
