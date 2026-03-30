@@ -33,12 +33,19 @@ Sources/AppClima/
 
 🌤️ App Clima CLI
 ----------------------
+
 Ingresa tu ciudad:
+
 cucuta
+
 📡 [REQUEST] Consultando servidor...
+
 📍 cucuta
+
 🌡️ Temperatura: 25.6°C
+
 💨 Viento: 4.7 km/h
+
 
 ## 👨‍💻 Autor
 
